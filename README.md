@@ -21,12 +21,7 @@ This folder contains key project documents, organized by language (CAS for Spani
 📂 Notebooks
 The notebooks document the entire project development, from data preparation to analysis.
 
-- 1_first_workflow.ipynb:
-
-    - Introduction to the project, first analyses and tests.
-    - Data pre-processing, including cleaning and transformation.
-
-- 2_clean_workflow.ipynb
+- marketing_performance_eda.ipynb
 
     - Analysis organised in epochs, with clean datasets.
     - Results and conclusions.
