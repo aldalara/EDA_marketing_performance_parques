@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # EDA Marketing Performance Parques
 Marketing Optimisation and Strategies in the amusement park. Visitor Profiling, Revenue Strategies and Digital Marketing Optimisation.
 
